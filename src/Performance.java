@@ -13,5 +13,6 @@ public class Performance {
         Performance performance = new Performance();
         performance.status = Status.MEDIUM;
         System.out.println(performance.status);
+        System.out.println("Yolo");
     }
 }
